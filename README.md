@@ -19,6 +19,7 @@ I build responsive React apps with clean UI, reusable components and client-side
 | **Hurra Store** | Arabic RTL e-commerce store with search, favorites and cart (React, Bootstrap) | [Live](https://amira4-4.github.io/brand-store/) / [Code](https://github.com/Amira4-4/brand-store) |
 | **CRUDS Product Management** | Add, update, delete and search products with validation (vanilla JS, Bootstrap) | [Live](https://amira4-4.github.io/crud-system/) / [Code](https://github.com/Amira4-4/crud-system) |
 | **Education Academy Website** | Responsive multi-section academy website (HTML, CSS, JavaScript) | [Live](https://amira4-4.github.io/Education-Academy-website/) / [Code](https://github.com/Amira4-4/Education-Academy-website) |
+| **TravelOra (team project)** | Travel booking website built by a 5-track team in the Devora internship. I worked on the React frontend (components, layout, routing and several pages) | [Live](https://travel-trips-team5.vercel.app/) / [Code](https://github.com/DevOraIntern2026/travel-trips_Team5) |
 
 ## Training
 
